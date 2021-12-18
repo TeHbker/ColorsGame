@@ -1,0 +1,45 @@
+body {
+  background-color: #191970;
+  text-align: center;
+}
+
+
+.red {
+  background-color: #DC143C;
+}
+
+.green {
+  background-color: #00FF7F;
+}
+
+.blue {
+  background-color: #4169E1;
+}
+
+.yellow {
+  background-color: #FFD700;
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 30%;
+  margin: 20px;
+  display: inline-block;
+  border: 10px solid black;
+}
+
+#title {
+  font-family: 'Comic Sans MS';
+  margin: 5%;
+  font-size: 3rem;
+  color: #F0F8FF;
+}
+
+.pressed {
+  background-color: grey;
+}
+.gameOver {
+  background-color: red;
+  opacity: 0.9;
+}
